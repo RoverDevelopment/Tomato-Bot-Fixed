@@ -1,9 +1,6 @@
 # Public Bot and Support Server!
 
 <a href="https://discord.gg/roverdev"><img src="https://discord.com/api/guilds/846548733914906664/widget.png?style=banner2"></a>
-<a href="https://discord.gg/roverdev"></a>
-
-  **NOTE:** It is suggested to use the [Sharded (&Clustered) version](https://github.com/Tomato6966/Multipurpose-discord-bot/tree/sharded_with_mongo), if you plan on using it for a VERIFIED BOT (on more then 2000 Servers!)
  
 
 # Installation Guide 🔥
@@ -61,9 +58,9 @@
         "clientsettings": {
             "nodes": [
                 {
-                    "host": "localhost",
+                    "host": "node1.unknowcheats.xyz",
                     "port": 2333,
-                    "password": "youshallnotpass"
+                    "password": "#complexontop"
                 }
             ]
         }
@@ -77,9 +74,9 @@
         "clientsettings": {
             "nodes": [
                 {
-                    "host": "lava.link",
-                    "port": 80,
-                    "password": "Anything for the Password"
+                    "host": "node1.unknowcheats.xyz",
+                    "port": 2333,
+                    "password": "#complexontop"
                 }
             ]
         }
