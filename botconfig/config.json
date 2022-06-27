@@ -1,5 +1,5 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "",
     "prefix": "//",
     "ownerIDS": [
         "663442537222242306",
@@ -17,9 +17,9 @@
     "clientsettings": {
         "nodes": [
             {
-                "host": "node1.unknowcheats.xyz",
+                "host": "node1.roverdev.xyz",
                 "port": 2333,
-                "password": "#complexontop"
+                "password": "discord.gg/roverdev"
             }
         ]
     },
