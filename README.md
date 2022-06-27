@@ -58,9 +58,9 @@
         "clientsettings": {
             "nodes": [
                 {
-                    "host": "node1.unknowcheats.xyz",
+                    "host": "node1.roverdev.xyz",
                     "port": 2333,
-                    "password": "#complexontop"
+                    "password": "discord.gg/roverdev"
                 }
             ]
         }
@@ -74,9 +74,9 @@
         "clientsettings": {
             "nodes": [
                 {
-                    "host": "node1.unknowcheats.xyz",
+                    "host": "node1.roverdev.xyz",
                     "port": 2333,
-                    "password": "#complexontop"
+                    "password": "discord.gg/roverdev"
                 }
             ]
         }
